@@ -19,4 +19,5 @@ To run the CSDT framwork, follow these steps:
 4. Run CSDT_Test.py to test the model.
 
 # Dataset Usage
-The AstroStripeSet dataset is available at [ ], Please ensure appropriate usage and citation if you are utilizing this model for academic or research purposes.
+
+The [AstroStripeSet](https://drive.google.com/drive/folders/1uC5IeGcCbwxrfPzQWGbLhBnubqPH0Rw7?usp=sharing) dataset is now publicly available to support the stripe-like space target detection community. Please ensure appropriate usage and citation if you are utilizing this model for academic or research purposes.
