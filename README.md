@@ -8,7 +8,7 @@
 
 # Introduction
 
-The code in this repository is the implementation of the methods and algorithms described in the paper "[Collaborative Static-Dynamic Teaching: A Semi-Supervised Framework for Stripe-Like Space Target Detection](https://arxiv.org/abs/2408.05029)," by Zijian Zhu et al. For detailed theoretical background and methodology, please refer to the paper.
+The code in this repository is the implementation of the methods and algorithms described in the paper "Collaborative Static-Dynamic Teaching: A Semi-Supervised Framework for Stripe-Like Space Target Detection," by Zijian Zhu et al. For detailed theoretical background and methodology, please refer to the paper.
 
 # Getting Started
 
